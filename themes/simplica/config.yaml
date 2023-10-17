@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: 'https://vasylyna.net'
 languageCode: en-us
 title: John Doherty
 googleAnalytics: ""
@@ -44,7 +44,7 @@ outputFormats:
     baseName: atom
 
 params:
-  description: "A personal blog about development, books, work, digital minimalism, and more."
+  description: "Блог про особистий розвиток, роботу, цифровий мінімалізм і книги"
   subtitle: ""
 
 sitemap:
