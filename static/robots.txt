@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tags/
+Disallow: /categories/
+Sitemap: https://vasylyna.net/sitemap.xml
