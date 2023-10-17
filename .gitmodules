@@ -1,0 +1,3 @@
+[submodule "themes/simplica"]
+	path = themes/simplica
+	url = https://github.com/ronv/Simplica.git

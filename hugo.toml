@@ -1,0 +1,24 @@
+baseURL = 'https://vovavasylyna.com'
+languageCode = 'uk-ua'
+title = 'Володимир Василина'
+theme = 'simplica'
+paginate = '9999'
+
+[params]
+description = "Блог Володимира Василини про особистий розвиток, роботу, цифровий мінімалізм та книги."
+subtitle = ""
+
+[sitemap]
+changefreq = "daily"
+filename = "sitemap.xml"
+priority = 0.9
+
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "atom"
+
+[frontmatter]
+author = "Володимир Василина"
+
+[markup.goldmark.renderer]
+hardWraps = true
